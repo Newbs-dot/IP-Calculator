@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g1inUXQqylK98FkIoU/pxSeZClyYeKD/tWmgCUIBuZxGKf0AvPV/UTTtYeUEYNMsyyNrQZru3pMQfdxNVmj3Ow==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectURFU2\\IP_Calculator\\IP_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uveof\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\uveof\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

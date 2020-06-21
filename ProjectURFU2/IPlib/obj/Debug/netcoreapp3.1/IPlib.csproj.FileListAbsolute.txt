@@ -1,0 +1,14 @@
+D:\ProjectURFU2\IPlib\bin\Debug\netcoreapp3.1\IPlib.deps.json
+D:\ProjectURFU2\IPlib\bin\Debug\netcoreapp3.1\IPlib.dll
+D:\ProjectURFU2\IPlib\bin\Debug\netcoreapp3.1\IPlib.pdb
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\IPlib.csprojAssemblyReference.cache
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\IPlib_MarkupCompile.cache
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\IPlib_MarkupCompile.lref
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\IPlib.g.resources
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\IPlib.csproj.CoreCompileInputs.cache
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\IPlib.AssemblyInfoInputs.cache
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\IPlib.AssemblyInfo.cs
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\IPlib.dll
+D:\ProjectURFU2\IPlib\obj\Debug\netcoreapp3.1\IPlib.pdb

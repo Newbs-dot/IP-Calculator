@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TyRKlfjz5ZZ7ju8Po9Uo9y9LmBW6QCrYCZTrVqaMi0DMkfCKOf+xzVIuhmiaou7Wf9aCOs0P1Ofj4i4xA+U/2w==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectURFU2\\IPlib\\IPlib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uveof\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.0.3\\microsoft.netcore.app.runtime.win-x86.3.0.3.nupkg.sha512",
+    "C:\\Users\\uveof\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.3.0.3.nupkg.sha512",
+    "C:\\Users\\uveof\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.0.3\\microsoft.aspnetcore.app.runtime.win-x86.3.0.3.nupkg.sha512",
+    "C:\\Users\\uveof\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
